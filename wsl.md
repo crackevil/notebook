@@ -57,17 +57,7 @@
     appendWindowsPath=false
     ```
 
-  * change apt mirror
-
-  * install apts
-
-    ```
-    sudo apt install apt-transport-https ca-certificates
-    sudo apt install net-tools
-    sudo apt install file
-    sudo apt install strace
-    sudo apt install parted
-    ```
+  * do work according to debian.md
 
 * storage
 
